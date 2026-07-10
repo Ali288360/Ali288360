@@ -1,146 +1,175 @@
-# Hi there 👋 I'm Abdi Ali Abdi
+# Hi! I'm **Abdi Ali Abdi** 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0EA5E9&width=600&lines=Computer+Engineering+Student;Java+Developer;AWS+Cloud+Learner;Full+Stack+Web+Developer;Always+Learning+Something+New!" />
-
----
-
-## 👨‍💻 About Me
-
-🎓 Computer Engineering Student at **Birla Vishvakarma Mahavidyalaya (BVM), India**
-
-🌍 International student from **Kenya**
-
-☁️ AWS Cloud Computing Intern
-
-💻 Passionate about Java, Full Stack Development, Cloud Computing, and Software Engineering.
-
-🎯 Goal: Build scalable software that solves real-world problems.
+**Typing SVG** • **GitHub** • **LinkedIn** • **Email**
 
 ---
 
-## 🚀 Tech Stack
+# 🙋‍♂️ Professional Summary
 
-### Languages
+I am a highly motivated **Computer Engineering student** at **Birla Vishvakarma Mahavidyalaya (BVM), India**. Originally from **Kenya**, my international academic journey has strengthened my adaptability, intercultural collaboration, and global perspective on technology.
 
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-
-### Frontend
-
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-
-### Backend
-
-![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-
-### Database
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
-
-### Cloud
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-
-### Tools
-
-Git • GitHub • VS Code • Linux • Postman
+Passionate about building **scalable, efficient, and user-centric software**, I continuously expand my expertise in **Full-Stack Web Development**, **Cloud Computing**, and **Software Engineering**. I believe software engineering is more than writing code—it's about solving real-world problems through clean, maintainable, and reliable solutions.
 
 ---
 
-# 📚 Currently Learning
+# 🛠️ Core Competencies & Tech Stack
 
-- Data Structures & Algorithms
-- Java Programming
-- Operating Systems
-- Software Engineering
-- MERN Stack
-- AWS Cloud
+## 💻 Languages & System Programming
 
----
-
-# 📂 Featured Projects
-
-## 🏢 Employee Management System
-
-A complete MERN stack CRUD application.
-
-**Tech**
-
-- MongoDB
-- Express
-- React
-- Node.js
+* Java
+* Python
+* JavaScript
+* C
+* SQL
 
 ---
 
-## 🌐 Portfolio Website
+## 🎨 Frontend Engineering
 
-Responsive portfolio built using React.
-
-Features
-
-- Responsive UI
-- Dark Mode
-- Project Showcase
-- Contact Form
+* HTML5
+* CSS3
+* React
+* Next.js
 
 ---
 
-## ☁️ AWS Cloud Labs
+## ⚙️ Backend, Databases & Cloud Systems
 
-Hands-on cloud projects involving
-
-- EC2
-- S3
-- IAM
-- Lambda
-- RDS
-- DynamoDB
+* Node.js
+* Express.js
+* PostgreSQL
+* MySQL
+* AWS
 
 ---
 
-# 📊 GitHub Stats
+## 🛠️ Tools & Development Environment
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ali288360&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali288360&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Ali288360&theme=tokyonight)
-
----
-
-# 📈 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ali288360&theme=tokyo-night)](https://github.com/Ali288360)
+* Git
+* GitHub
+* Visual Studio Code
+* Linux
+* Postman
 
 ---
 
-# 🏆 GitHub Trophies
+# 🎯 Current Engineering Focus
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Ali288360&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+### 🧠 Data Structures & Algorithms
 
----
+Continuously improving problem-solving skills, algorithmic thinking, computational complexity analysis, and coding efficiency.
 
-# 🌍 Connect With Me
+### ⚛️ React & Next.js Ecosystem
 
-- GitHub: https://github.com/Ali288360
-- LinkedIn: Your LinkedIn
-- Email: your@email.com
+Learning modern React patterns, Server Actions, the App Router architecture, Server Components, and Incremental Static Regeneration (ISR).
 
----
+### ☁️ AWS Cloud Computing
 
-# 💡 Quote
-
-> "First, solve the problem. Then, write the code."
->
-> — John Johnson
+Exploring cloud-native application development using AWS services, including Lambda, API Gateway, Amazon S3, Amazon RDS, IAM, and serverless architectures.
 
 ---
 
-⭐ If you like my projects, don't forget to star them!
+# 📁 Highlighted Project
+
+## 🌐 Interactive Personal Portfolio Website
+
+**Status:** An executive-style portfolio website designed to showcase my technical skills, featured projects, academic achievements, certifications, and professional experience.
+
+### Architecture
+
+* Next.js
+* React
+* Tailwind CSS
+* TypeScript
+
+### Deployment
+
+* Vercel
+* Netlify
+* Continuous Deployment (CI/CD)
+
+### Highlights
+
+* Optimized Lighthouse Performance
+* Responsive Design
+* Interactive UI Components
+* Modern Dark & Light Theme
+* Smooth Animations
+* SEO Friendly
+
+### Links
+
+🔗 Live Demo • 💻 Source Code
+
+---
+
+# 📊 Developer Metrics & Dashboard
+
+| 📈 GitHub Statistics | 🛠️ Language Breakdown |
+| :------------------: | :--------------------: |
+|     GitHub Stats     |      Top Languages     |
+
+| 🔥 Contribution Streak | 🏆 Achievements |
+| :--------------------: | :-------------: |
+|      GitHub Streak     | GitHub Trophies |
+
+### 👀 Profile Views
+
+Profile Visitor Counter
+
+---
+
+# ⚡ WakaTime Coding Activity
+
+WakaTime Statistics
+
+---
+
+# 📈 Contribution Activity
+
+GitHub Activity Graph
+
+---
+
+# 🏆 Badges & Achievements
+
+* 🚀 Open Source Contributor
+* 💻 Full Stack Developer
+* ☁️ Cloud Computing Learner
+* 🧩 Problem Solver
+* 🤖 AI Enthusiast
+* 🎓 Student Developer
+
+---
+
+# 🤝 Connect With Me
+
+* GitHub
+* LinkedIn
+* Portfolio
+* Email
+* Twitter / X
+* Instagram
+
+---
+
+# 💡 Fun Facts
+
+* 🎓 Pursuing my Computer Engineering degree in India while proudly representing my Kenyan roots.
+* ☕ Powered by Kenyan tea, Indian masala chai, curiosity, and clean code.
+* 💻 My programming journey began with Java, and I'm continuously expanding into JavaScript, React, and cloud technologies.
+* 🛠️ I enjoy refactoring code—even when it already works—because clean code is maintainable code.
+* 🚀 I believe the fastest way to master a technology is by building real-world projects with it.
+
+---
+
+# 📜 Coding Philosophy
+
+> **"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."**
+> — Martin Fowler
+
+---
+
+## ⭐ Thanks for visiting!
+
+If you enjoy my projects or find them useful, consider giving my repositories a **⭐ Star**. Your support motivates me to keep learning, building, and contributing to the developer community.
